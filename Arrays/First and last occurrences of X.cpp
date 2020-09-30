@@ -3,7 +3,7 @@
 
 //Note: If the number x is not found in the array just print -1.
 
-//Using Binary Search(O(log n)
+//Using Binary Search O(log n)
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
